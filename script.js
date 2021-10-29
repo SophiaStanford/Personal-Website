@@ -1,1 +1,2 @@
-console.log("Hello! You found me!");
+var message ="Hello! You found me!"
+console.log(message);
